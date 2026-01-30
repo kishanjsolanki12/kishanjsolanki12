@@ -11,13 +11,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanjsolanki12&show_icons=true&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 ## 🌐 Socials:
 <p align="center">
 <a href="#">
@@ -37,3 +30,4 @@
   </a>
 
 </p>
+
